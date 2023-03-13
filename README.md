@@ -13,7 +13,7 @@
 
 ---
 
-During 7 years of my experience in Android Software Development I have worked on different projects like fintech startups, healthcare products, investment platforms, media apps etc. Full cycle app development - from scratch till releasing on Google Play.
+During 7 years of my experience in Android Software Development I have worked on different projects like fintech startups, educational products, investment platforms, media apps etc. Full cycle app development - from scratch till releasing on Google Play.
 I'm working with actual stack such as Room, Retrofit, RESTful API, GraphQL (Apollo), Coroutines, Jetpack (+ Compose), Glide etc.
 I'm passionate and goal-oriented developer with good time-management skills.
 
@@ -28,8 +28,6 @@ I'm passionate and goal-oriented developer with good time-management skills.
 - Worked with standard tools such as GIT, Gradle, Firebase, Jira etc…
 - Have a some experience with KMM, Flutter, iOS.
 - Languages: UA, RU - native; EN - intermediate+. Worked in an international team.
-
-**Expected salary**: _from 3800$ net_
 
 ## Work experience (latest first):
 
