@@ -25,11 +25,16 @@ I'm passionate and goal-oriented developer with good time-management skills.
 - Worked with actual stack such as Room, Retrofit, REST, GraphQL, Coroutines, Jetpack (+Compose), Glide etc.
 - Strong knowledge and experience with OOP, SOLID, Clean Architecture etc.
 - Experience with complex UI, custom views, animations.
+- Have experience with MVVM, MVI + Jetpack Compose.
 - Worked with standard tools such as GIT, Gradle, Firebase, Jira etc…
 - Have a some experience with KMM, Flutter, iOS.
 - Languages: UA, RU - native; EN - intermediate+. Worked in an international team.
 
 ## Work experience (latest first):
+
+✨ **AmoFintech** / Android Developer | 04/2022 – presents, full-time 
+> Ukrainian Fintech company.
+**Stack**: NDA.
 
 ✨ **Kama** / (Kotlin Senior Android Developer) | 01/2022 – 01/2023, full-time 
 > Start-up based in London. App with courses (video/audio/text) and coach programs. Full cycle app development and support.
